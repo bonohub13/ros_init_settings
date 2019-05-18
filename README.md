@@ -2,7 +2,7 @@
 This is for users using Ubuntu Bionic-Beaver(18.04) and Xenial(16.04) and wants to be lazy for ros installation.
 
 ## === NOTE ======
-If there were any problems or anything, please let me know at: bonohub13 or `ken.saito.0813@gmail.com`  
+If there were any problems or anything, please let me know at: bonohub13 or ken.saito.0813@gmail.com  
 (it really helps!)  
   
 This is only available for Ubuntu Bionic-Beaver(18.04) and Xenial(16.04) since it's using a version of melodic!  
