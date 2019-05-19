@@ -9,3 +9,7 @@ This is only available for Ubuntu Bionic-Beaver(18.04) and Artful(17.04) since i
 For more info for ROS, go to `http://www.ros.org/`
 
 ###### Thank you for using this package!
+  
+## === UPDATE/FIXED DATES =====
+May/19/2019: The Melodic wasn't available for Xenial but instead, for Artful. ~SORRY FOLKS~  
+So make sure your ubuntu isn't using Xenial but instead is Artful or Bionic.
