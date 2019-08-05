@@ -19,5 +19,6 @@ echo "#######################################" >> ~/.bashrc
 
 source ~/.bashrc
 sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential -y
+sudo python3 -m pip install rospkg
 
 sudo apt update
