@@ -11,10 +11,10 @@ sudo apt install ros-melodic-desktop-full -y
 sudo rosdep init
 rosdep update
 
-echo " " >> ~/.bashrc
+echo "" >> ~/.bashrc
 echo "########## ros/ros2 settings ##########" >> ~/.bashrc
 echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
-echo " " >> ~/.bashrc
+echo "" >> ~/.bashrc
 echo "export ROS_MASTER_URI=http://localhost:11311" >> ~/.bashrc
 echo "export ROS_HOSTNAME=$(hostname)" >> ~/.bashrc
 echo "#######################################" >> ~/.bashrc
